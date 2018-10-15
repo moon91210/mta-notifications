@@ -1,4 +1,4 @@
-# Notifications v0.1 for Multi Theft Auto
+# Notifications v1.0 for Multi Theft Auto
 > Powered by **animate.css**
 >https://daneden.github.io/animate.css/
 ## About
