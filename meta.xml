@@ -1,0 +1,25 @@
+<meta>
+   <info name="Notifications" author="Tails" type="script" version="0.1"/>
+   <min_mta_version client="1.5.5" server="1.5.5"/>
+   <oop>true</oop>
+
+   <script src="client.lua" type="client"/>
+   <script src="shared.lua" type="shared"/>
+   
+   <file src="styles/animate.css"/>
+   <file src="styles/style.css"/>
+   <file src="scripts/jquery-3.3.1.slim.min.js"/>
+   <file src="scripts/notifications.js"/>
+   <file src="notify.html"/>
+   <file src="sounds/plop.mp3"/>
+   <file src="img/sign-info-icon.png"/>
+   <file src="img/sign-error-icon.png"/>
+   <file src="img/sign-warning-icon.png"/>
+   <file src="img/sign-success-icon.png"/>
+
+   <export function="info" type="shared"/>
+   <export function="warning" type="shared"/>
+   <export function="error" type="shared"/>
+   <export function="success" type="shared"/>
+   <export function="setWelcomeMessage" type="client"/>
+</meta>
