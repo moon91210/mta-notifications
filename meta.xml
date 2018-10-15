@@ -6,11 +6,11 @@
    <script src="client.lua" type="client"/>
    <script src="shared.lua" type="shared"/>
    
-   <file src="styles/animate.css"/>
+   <file src="styles/animate.min.css"/>
    <file src="styles/style.css"/>
    <file src="scripts/jquery-3.3.1.slim.min.js"/>
    <file src="scripts/notifications.js"/>
-   <file src="notify.html"/>
+   <file src="index.html"/>
    <file src="sounds/plop.mp3"/>
    <file src="img/sign-info-icon.png"/>
    <file src="img/sign-error-icon.png"/>

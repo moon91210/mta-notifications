@@ -10,7 +10,7 @@ addEvent('onNotify', true)
 addEventHandler('onNotify', resourceRoot, createNotification)
 
 addEventHandler('onClientBrowserCreated', web, function()
-	web:loadURL('http://mta/local/notify.html')
+	web:loadURL('http://mta/local/index.html')
 end)
 
 addEventHandler('onClientBrowserDocumentReady', web, function()
