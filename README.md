@@ -32,9 +32,9 @@ You can apply custom styles by supplying a style table in the options table. The
 ```lua
 local options = {
 	style = {
-		backgroundColor = "rgba(0,0,0,0.5)",
+		backgroundColor = "rgba(0, 0, 0, 0.5)",
 		fontSize =  "20px",
-		borderRadius =  "5px",
+		borderRadius =  "0",
 		marginBottom =  "0"
 	}
 }
