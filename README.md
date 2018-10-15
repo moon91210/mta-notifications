@@ -40,7 +40,7 @@ local options = {
 }
 notify:info("Hello there!", options)
 ```
-#### Options
+## Options
 | Key | Description |
 |--|--|
 | animIn | Set the the fade in animation name. Check out https://daneden.github.io/animate.css/ to find a list of options. Defaults to ``rubberBand`` |
