@@ -40,6 +40,8 @@ local options = {
 }
 notify:info("Hello there!", options)
 ```
+#### Animation types
+Please visit https://daneden.github.io/animate.css/ for a complete list of animation types.
 ## Options
 | Key | Description |
 |--|--|
@@ -49,5 +51,3 @@ notify:info("Hello there!", options)
 | animInDelay | Set the delay in seconds before the fade in animation starts. Defaults to ``1``|
 | animOutDelay | Set the delay in seconds before the fade out animation starts. This will change how long the notification will be visible before it fades out. Defaults to ``4``|
 | style | A table with CSS styles. See example. |
-#### Animation types
-Please visit https://daneden.github.io/animate.css/ for a complete list of animation types.
