@@ -43,6 +43,7 @@ notify:info("Hello there!", options)
 #### Animation types
 Please visit https://daneden.github.io/animate.css/ for a complete list of animation types.
 ## Options
+A list of options and what each one does.
 | Key | Description |
 |--|--|
 | animIn | Set the fade-in animation type. Check out https://daneden.github.io/animate.css/ to find a list of animation types. Defaults to ``rubberBand`` |
