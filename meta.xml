@@ -1,5 +1,5 @@
 <meta>
-   <info name="Notifications" author="Tails" type="script" version="0.1"/>
+   <info name="Notifications" author="Tails" type="script" version="1.0"/>
    <min_mta_version client="1.5.5" server="1.5.5"/>
    <oop>true</oop>
 
