@@ -45,9 +45,9 @@ Please visit https://daneden.github.io/animate.css/ for a complete list of anima
 ## Options
 | Key | Description |
 |--|--|
-| animIn | Set the the fade in animation name. Check out https://daneden.github.io/animate.css/ to find a list of options. Defaults to ``rubberBand`` |
-| animOut | Set the the fade out animation name. Check out https://daneden.github.io/animate.css/ to find a list of options. Defaults to ``flipOutY`` |
-| animDuration | Set the duration of the animations. A high number means long animations and low means slow animations. Defaults to ``1``|
-| animInDelay | Set the delay in seconds before the fade in animation starts. Defaults to ``1``|
-| animOutDelay | Set the delay in seconds before the fade out animation starts. This will change how long the notification will be visible before it fades out. Defaults to ``4``|
+| animIn | Set the fade-in animation type. Check out https://daneden.github.io/animate.css/ to find a list of animation types. Defaults to ``rubberBand`` |
+| animOut | Set the the fade-out animation type. Check out https://daneden.github.io/animate.css/ to find a list of animation types. Defaults to ``flipOutY`` |
+| animDuration | This sets the duration of both fade-in/out animations. A high number means slower animations and low means faster animations. Defaults to ``1``|
+| animInDelay | Set how many seconds it takes before the first animation kicks in. Defaults to ``1``|
+| animOutDelay | This will change how many seconds the notification lasts before the last animation kicks in. Defaults to ``4``|
 | style | A table with CSS styles. See example. |
