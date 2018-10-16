@@ -1,6 +1,11 @@
 # Notifications v1.0 for Multi Theft Auto
 > Powered by **animate.css**
 >https://daneden.github.io/animate.css/
+
+> ![
+](https://i.imgur.com/3OuaCdl.png)
+
+
 ## About
 
 This is a resource which allows scripters to easily create beautiful on-screen notifications for Multi Theft Auto.
@@ -8,11 +13,6 @@ This is a resource which allows scripters to easily create beautiful on-screen n
 The notifications can be fully customized with CSS styles.
 
 There are 4 types of notifications: ``info``, ``warning``, ``error`` and ``success``. Please see the example below.
-
-> Default and custom notifications
-
-> ![
-](https://i.imgur.com/3OuaCdl.png)
 
 ## Getting Started
 
