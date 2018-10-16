@@ -9,15 +9,10 @@ The notifications can be fully customized with CSS styles.
 
 There are 4 types of notifications: ``info``, ``warning``, ``error`` and ``success``. Please see the example below.
 
-Default notifications
+> Default and custom notifications
 
-![
-](https://i.imgur.com/zrIAvIa.png)
-
-Or custom ones
-
-![
-](https://i.imgur.com/V8MBg7Q.png)
+> ![
+](https://i.imgur.com/3OuaCdl.png)
 
 ## Getting Started
 
