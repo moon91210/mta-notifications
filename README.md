@@ -10,9 +10,9 @@
 
 This is a resource which allows scripters to easily create beautiful on-screen notifications for Multi Theft Auto.
 
-The notifications can be fully customized with CSS styles.
+The notifications can be fully customized with CSS styles and are animated with animate.css (see link at the top for more info and a list of animation types.
 
-There are 4 types of notifications: ``info``, ``warning``, ``error`` and ``success``. Please see the example below.
+There are 4 types of notifications: ``info``, ``warning``, ``error`` and ``success``. Check out the examples below.
 
 ## Getting Started
 
