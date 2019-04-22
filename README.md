@@ -31,7 +31,7 @@ You can supply an options table as the second argument to change a notification'
 ```lua
 local options = {
 	animIn = "lightSpeedIn",
-	animOut = "hinge"
+	animOut = "hinge",
 	animDuration = 1,
 	animOutDelay = 4,
 	animInDelay = 0
